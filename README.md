@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyanshu-panda-au25&label=Profile%20views&color=0e75b6&style=flat" alt="pragyanshu-panda-au19" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyanshu-panda-au19" alt="pragyanshu-panda-au19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyanshu-panda-au19" alt="pragyanshu-panda-au25" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/cyber_prag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/cyber_prag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pragyanshu-pandey-b5b782167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragyanshu-pandey-b5b782167" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pragyanshu-panda-au25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pragyanshu-panda-au19" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pragyanshu-panda-au25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pragyanshu-panda-au25" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/pragyanshupanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pragyanshupanda" height="30" width="40" /></a>
 <a href="https://instagram.com/cyber.prag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyber.prag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pragyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pragyanshu" height="30" width="40" /></a>
